@@ -1,3 +1,6 @@
+This code is associated with the paper from Arevalo et al., "Earliest infections predict the age distribution of seasonal influenza A cases". eLife, 2020. http://doi.org/10.7554/eLife.50060
+
+
 # Earliest infections predict the age distribution of seasonal influenza A cases
 Data and Code for [Arevalo, et al., 2019 (Earliest infections predict the age distribution of seasonal influenza A cases)](https://elifesciences.org/articles/50060).
 
